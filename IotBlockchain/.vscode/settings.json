@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.osx": {
+        "PATH": "/Users/bitbucket/.platformio/penv/bin:/Users/bitbucket/.platformio/penv:/anaconda2/bin:/Users/bitbucket/.nvm/versions/node/v8.6.0/bin:/Users/bitbucket/.rbenv/shims:/usr/local/heroku/bin:/usr/local/bin:/usr/local/sbin:/usr/local/share/npm/bin:/Users/bitbucket/.rbenv/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/go/bin:/opt/X11/bin:/opt/ImageMagick/bin",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}
